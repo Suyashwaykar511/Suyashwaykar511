@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suyashwaykar
 - 👀 I’m interested in FrontEnd Developer
 - 🌱 I’m currently learning JS & React
-- 📫 How to reach me 7620962526
+- 📫 How to reach me suyashwaykar7705@gmail.com
 - ⚡ Fun fact: Friendly
 
 <!---
