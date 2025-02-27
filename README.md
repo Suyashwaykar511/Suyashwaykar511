@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suyashwaykar
-- 👀 I’m interested in Front End
+- 👀 I’m interested in FrontEnd Developer
 - 🌱 I’m currently learning JS & React
 - 📫 How to reach me 7620962526
 - ⚡ Fun fact: Friendly
